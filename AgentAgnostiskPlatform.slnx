@@ -10,6 +10,7 @@
   <Folder Name="/Backend/tests/" />
   <Folder Name="/SolutionItems/">
     <File Path="CLAUDE.md" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="AgentAgnostiskPlatform.AppHost/AgentAgnostiskPlatform.AppHost.csproj" />
   <Project Path="AgentAgnostiskPlatform/AgentAgnostiskPlatform.ServiceDefaults.csproj" />
