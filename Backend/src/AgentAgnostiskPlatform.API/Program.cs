@@ -81,6 +81,9 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
     app.UseSwagger();
     app.UseSwaggerUI();
+
+    // Redirect root to Swagger UI in development
+    app.MapGet("/", () => Results.Redirect("/swagger/index.html")).ExcludeFromDescription();
 }
 
 
