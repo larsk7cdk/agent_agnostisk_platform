@@ -598,3 +598,4 @@ C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\Backend\src\AgentAgn
 C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\Backend\src\AgentAgnostiskPlatform.API\obj\Debug\net10.0\AgentAgnostiskPlatform.API.pdb
 C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\Backend\src\AgentAgnostiskPlatform.API\obj\Debug\net10.0\AgentAgnostiskPlatform.API.genruntimeconfig.cache
 C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\Backend\src\AgentAgnostiskPlatform.API\obj\Debug\net10.0\ref\AgentAgnostiskPlatform.API.dll
+C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\Backend\src\AgentAgnostiskPlatform.API\obj\Debug\net10.0\AgentAgnostiskPlatform.API.sourcelink.json

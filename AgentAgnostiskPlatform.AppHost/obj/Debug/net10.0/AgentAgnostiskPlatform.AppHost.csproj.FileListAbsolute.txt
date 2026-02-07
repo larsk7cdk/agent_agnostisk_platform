@@ -96,3 +96,4 @@ C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\AgentAgnostiskPlatfo
 C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\AgentAgnostiskPlatform.AppHost\obj\Debug\net10.0\AgentAgnostiskPlatform.AppHost.genruntimeconfig.cache
 C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\AgentAgnostiskPlatform.AppHost\obj\Debug\net10.0\ref\AgentAgnostiskPlatform.AppHost.dll
 C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\AgentAgnostiskPlatform.AppHost\obj\Debug\net10.0\Aspire\references\AgentAgnostiskPlatform_API.ProjectMetadata.g.cs
+C:\github\larsk7cdk\AAU\masterthesis\AgentAgnostiskPlatform\AgentAgnostiskPlatform.AppHost\obj\Debug\net10.0\AgentAgnostiskPlatform.AppHost.sourcelink.json
