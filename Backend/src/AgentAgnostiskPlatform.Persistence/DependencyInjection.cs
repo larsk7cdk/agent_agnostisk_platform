@@ -14,7 +14,7 @@ public static class DependencyInjection
     {
         services.AddDbContext<AppDatabaseContext>(options =>
         {
-            options.UseSqlServer(configuration.GetConnectionString("AppDatabaseConnectionString"));
+            options.UseSqlServer(configuration.GetConnectionString("appdb"));
         });
 
         // Service registrations
