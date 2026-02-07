@@ -1,11 +1,16 @@
 <Solution>
   <Folder Name="/Backend/" />
-  <Folder Name="/Backend/src/">
-    <Project Path="Backend/src/AgentAgnostiskPlatform.API/AgentAgnostiskPlatform.API.csproj" />
+  <Folder Name="/Backend/src/" />
+  <Folder Name="/Backend/src/Core/">
     <Project Path="Backend/src/AgentAgnostiskPlatform.Application/AgentAgnostiskPlatform.Application.csproj" />
     <Project Path="Backend/src/AgentAgnostiskPlatform.Domain/AgentAgnostiskPlatform.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Backend/src/Infrastructure/">
     <Project Path="Backend/src/AgentAgnostiskPlatform.Infrastructure/AgentAgnostiskPlatform.Infrastructure.csproj" />
     <Project Path="Backend/src/AgentAgnostiskPlatform.Persistence/AgentAgnostiskPlatform.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Backend/src/Presentation/">
+    <Project Path="Backend/src/AgentAgnostiskPlatform.API/AgentAgnostiskPlatform.API.csproj" />
   </Folder>
   <Folder Name="/Backend/tests/" />
   <Folder Name="/SolutionItems/">
