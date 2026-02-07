@@ -1,8 +1,0 @@
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\AgentAgnostiskPlatform.API.csproj.AssemblyReference.cache
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\rpswa.dswa.cache.json
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\AgentAgnostiskPlatform.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\AgentAgnostiskPlatform.API.AssemblyInfoInputs.cache
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\AgentAgnostiskPlatform.API.AssemblyInfo.cs
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\AgentAgnostiskPlatform.API.csproj.CoreCompileInputs.cache
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\AgentAgnostiskPlatform.API.MvcApplicationPartsAssemblyInfo.cs
-C:\github\larsk7cdk\AAU\masterthesis\agent_agnostisk_platform\agent_agnostisk_platform.server\src\AgentAgnostiskPlatform.API\obj\Release\net10.0\AgentAgnostiskPlatform.API.MvcApplicationPartsAssemblyInfo.cache
