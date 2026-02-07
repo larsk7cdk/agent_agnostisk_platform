@@ -18,5 +18,5 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="AgentAgnostiskPlatform.AppHost/AgentAgnostiskPlatform.AppHost.csproj" />
-  <Project Path="AgentAgnostiskPlatform/AgentAgnostiskPlatform.ServiceDefaults.csproj" />
+  <Project Path="AgentAgnostiskPlatform.ServiceDefaults/AgentAgnostiskPlatform.ServiceDefaults.csproj" />
 </Solution>
