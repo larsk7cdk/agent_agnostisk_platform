@@ -10,6 +10,7 @@
     <ItemGroup>
         <ProjectReference Include="..\AgentAgnostiskPlatform.Application\AgentAgnostiskPlatform.Application.csproj"/>
         <ProjectReference Include="..\AgentAgnostiskPlatform.Domain\AgentAgnostiskPlatform.Domain.csproj"/>
+        <ProjectReference Include="..\AgentAgnostiskPlatform.Persistence\AgentAgnostiskPlatform.Persistence.csproj" />
     </ItemGroup>
 
     <ItemGroup>

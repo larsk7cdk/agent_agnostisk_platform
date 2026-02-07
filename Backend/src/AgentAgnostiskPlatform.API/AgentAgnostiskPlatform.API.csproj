@@ -35,6 +35,7 @@
     </ItemGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\..\..\AgentAgnostiskPlatform\AgentAgnostiskPlatform.ServiceDefaults.csproj" />
         <ProjectReference Include="..\AgentAgnostiskPlatform.Infrastructure\AgentAgnostiskPlatform.Infrastructure.csproj" />
         <ProjectReference Include="..\AgentAgnostiskPlatform.Persistence\AgentAgnostiskPlatform.Persistence.csproj" />
     </ItemGroup>
