@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AgentAgnostiskPlatform.API</name>
+    </assembly>
+    <members>
+        <member name="T:AgentAgnostiskPlatform.API.Controllers.HealthController">
+            <summary>
+               API Health Check Handling
+            </summary>
+        </member>
+        <member name="M:AgentAgnostiskPlatform.API.Controllers.HealthController.GetHealthAsync">
+            <summary>
+                API Health Check
+            </summary>
+        </member>
+        <member name="M:AgentAgnostiskPlatform.API.Controllers.HealthController.GetHealthAuthAsync">
+            <summary>
+                API Health Check with authorization
+            </summary>
+        </member>
+        <member name="T:AgentAgnostiskPlatform.API.Controllers.ManagerController">
+            <summary>
+               Password management handling
+            </summary>
+        </member>
+        <member name="M:AgentAgnostiskPlatform.API.Controllers.ManagerController.CreateAsync(AgentAgnostiskPlatform.Application.Contracts.Interfaces.Shared.IRequestHandler{AgentAgnostiskPlatform.Application.Contracts.DTOs.Manager.ManagerCreateRequestDTO},AgentAgnostiskPlatform.Application.Contracts.DTOs.Manager.ManagerCreateRequestDTO)">
+            <summary>
+                Create new password
+            </summary>
+        </member>
+        <member name="M:AgentAgnostiskPlatform.API.Controllers.ManagerController.GetAllAsync(AgentAgnostiskPlatform.Application.Contracts.Interfaces.Shared.IRequestHandler{AgentAgnostiskPlatform.Application.Contracts.DTOs.Manager.ManagerReadRequestDTO,System.Collections.Generic.IReadOnlyList{AgentAgnostiskPlatform.Application.Contracts.DTOs.Manager.ManagerResponseDTO}},AgentAgnostiskPlatform.Application.Contracts.DTOs.Manager.ManagerReadRequestDTO)">
+            <summary>
+                Get all passwords for a user
+            </summary>
+        </member>
+    </members>
+</doc>

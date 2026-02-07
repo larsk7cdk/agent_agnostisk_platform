@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Backend/" />
+  <Folder Name="/Backend/src/">
+    <Project Path="Backend/src/AgentAgnostiskPlatform.API/AgentAgnostiskPlatform.API.csproj" />
+    <Project Path="Backend/src/AgentAgnostiskPlatform.Application/AgentAgnostiskPlatform.Application.csproj" />
+    <Project Path="Backend/src/AgentAgnostiskPlatform.Domain/AgentAgnostiskPlatform.Domain.csproj" />
+    <Project Path="Backend/src/AgentAgnostiskPlatform.Infrastructure/AgentAgnostiskPlatform.Infrastructure.csproj" />
+    <Project Path="Backend/src/AgentAgnostiskPlatform.Persistence/AgentAgnostiskPlatform.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Backend/tests/" />
+  <Folder Name="/claude/">
+    <File Path="CLAUDE.md" />
+  </Folder>
+  <Project Path="AgentAgnostiskPlatform.AppHost/AgentAgnostiskPlatform.AppHost.csproj" />
+  <Project Path="AgentAgnostiskPlatform/AgentAgnostiskPlatform.ServiceDefaults.csproj" />
+</Solution>

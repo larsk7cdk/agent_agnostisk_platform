@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>AgentAgnostiskPlatform.Infrastructure</PackageId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\AgentAgnostiskPlatform.Application\AgentAgnostiskPlatform.Application.csproj"/>
+        <ProjectReference Include="..\AgentAgnostiskPlatform.Domain\AgentAgnostiskPlatform.Domain.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Shared\" />
+    </ItemGroup>
+
+</Project>
