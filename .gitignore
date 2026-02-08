@@ -1,6 +1,9 @@
 # JetBrains Rider
 .idea/
 
+# Claude Code
+.claude/
+
 # User-specific files
 *.suo
 *.user
